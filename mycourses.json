@@ -1,0 +1,12 @@
+{
+  "student": "Yuying Li",
+  "version": "1.0.0",
+  "timestamp": "2020-01-13T11:39:12+0000",
+  "count": 4,
+  "data": [
+    {"id": 11, "courseCode": "UNX510", "courseName": "Unix Bash Shell Programming" },
+    {"id": 12, "courseCode": "UNX511", "courseName": "Unix System Programming" },
+    {"id": 13, "courseCode": "MAP523", "courseName": "Mobile APP development" },
+    {"id": 14, "courseCode": "PRJ566", "courseName": "Project Management" },
+  ]
+}
